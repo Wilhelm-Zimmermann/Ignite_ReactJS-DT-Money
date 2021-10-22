@@ -1,6 +1,6 @@
 import Modal from "react-modal";
 import { useTransactions } from "../../hooks/useTransactions";
-import { FormEvent, useContext, useState } from "react";
+import { FormEvent, useState } from "react";
 import { Container, RadioBox, TransactionTypeContainer } from "./styles";
 
 import closeImg from "../../assets/close.svg";
